@@ -18,10 +18,7 @@ npm run dev
 
 ## Database set up
 
-The app runs on a Postgres DB using Docker, with docker-compose.yml ready. You will need a .env file with:
-```
-DATABASE_URL=postgresql://postgres:password@localhost/indigov
-```
+The app runs on a Postgres DB using Docker, with docker-compose.yml ready.
 
 1. First, run Docker
 
